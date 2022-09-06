@@ -16,3 +16,8 @@ AI Project
  - Present your results in tables and figures.
 
 ## What's included ? 
+
+ 1. AI-Ajay: Jupyter Notebook with Code. 
+ 2. Report: Report explaining all the above requirements.
+ 3. Dataset
+
