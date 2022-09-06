@@ -14,3 +14,5 @@ AI Project
  - testing it with pairs from the set of glyphs from the two splits
  - testing it with pairs from the set of glyphs from the test split
  - Present your results in tables and figures.
+
+## What's included ? 
